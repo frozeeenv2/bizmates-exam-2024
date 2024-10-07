@@ -1,4 +1,6 @@
 ### Japan Spots and Weather
+- Website: https://japan.devdojo.cloud/
+- Hosting: Hostinger
 
 ### Why the UI/UX?
 
