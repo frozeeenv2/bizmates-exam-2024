@@ -17,3 +17,9 @@ I used laravel, vuejs and the default SQLite. For the API, I created a services 
 The result from the APIs are cached by API type and by identifier, so that it'll improve the performance of the application, not fetching every users or requests, since the data aren't changing in real-time (the caches can be edited how long it'll be cache to suit the API).
 
 I also created a migration file for countries, in case ~ soon, the app will also display other countries and cities.
+
+### Installation
+
+- `composer install`
+- `npm install`
+- `php artisan migrate --seed`
