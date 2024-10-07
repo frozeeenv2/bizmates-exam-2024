@@ -1,4 +1,6 @@
 ### Japan Spots and Weather
+![image](https://github.com/user-attachments/assets/5fa5fc32-df94-4c0a-8cc5-053e386d7c42)
+
 - Website: https://japan.devdojo.cloud/
 - Hosting: Hostinger
 
